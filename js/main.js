@@ -19,7 +19,7 @@ function init () {
 
 	user.init();
 	view.init( initEnergy );
-    intro.init('Energy: Samuel Girardin | Lab: 3th');
+    intro.init('Energy: Physics |Visar Labs');
 	
 }
 
